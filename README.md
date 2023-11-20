@@ -1,4 +1,4 @@
 # Assignment11
- **_ Assignment11 for CS648 _**
+ **_Assignment11 for CS648_**
 
 #### Version of Vecta Corp website built using Bootstrap
